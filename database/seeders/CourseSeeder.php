@@ -17,7 +17,7 @@ class CourseSeeder extends Seeder
             [
                 'title' => 'COURSE 1',
                 'description' => 'COURSE 1 DESCRIPTION',
-                'video_src' => 'https://www.youtube.com/embed/5kXuXwVeI4M',
+                'video_src' => 'https://www.youtube.com/embed/bLKc-rIWn6U',
             ],
         ]);
     }
